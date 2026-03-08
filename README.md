@@ -1,5 +1,6 @@
-# MD_PPO_supplementary_material
-Supplementary material for MD study on PPOs
+# Supplementary material for molecular dynamics simulations of PPOs
+
+This repository contains the supplementary material for the molecular dynamics simulations of PPOs performed in the PhD thesis [Computational studies of glycosyltransferases and polyphenol oxidases](https://orbit.dtu.dk/en/publications/computational-studies-of-glycosyltransferases-and-polyphenol-oxid/).
 
 - Supplementary Video 1: Simulation of AoCO4 with guaiacol using CHARMM force fields (100 ns). The movement of the copper and peroxide atoms is due to errors in the settings used for removing the periodic boundary conditions.
 - Supplementary Video 2: Simulation of AoCO4 with syringyl using CHARMM force fields (100 ns). The movement of the copper and peroxide atoms is due to errors in the settings used for removing the periodic boundary conditions.
